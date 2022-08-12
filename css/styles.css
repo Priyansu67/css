@@ -17,6 +17,7 @@
    font-size: 2rem;
    color: #66BFBF;
    margin: 0;
+   margin-bottom: 100px;
    font-weight: normal;
    font-family: 'Montserrat', sans-serif;
  }
@@ -53,7 +54,7 @@
  .top-container {
    background-color: #EAF6F6;
    position: relative;
-   padding-top: 100px;
+   padding-top: 70px;
  }
 
  .middle-container {
@@ -68,18 +69,21 @@
 
  .top-cloud {
    position: absolute;
-   right: 300px;
+   width: 15%;
+   right: 15%;
    top: 50px;
  }
 
  .bottom-cloud {
    position: absolute;
-   left: 300px;
+   width: 15%;
+   left: 15%;
    bottom: 300px;
  }
 
- .mountains {
+ .mountain {
    margin: 0;
+   width: 70%;
  }
 
  .me {
