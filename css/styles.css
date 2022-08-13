@@ -116,11 +116,17 @@
    margin-left: 30px;
  }
 
- .skill-row {
-   margin: 100px auto 100px auto;
+ .skill-row1 {
+   margin: 0px auto 100px auto;
    width: 50%;
    text-align: left;
  }
+
+ .skill-row2 {
+  margin: 100px auto 0 auto;
+  width: 50%;
+  text-align: left;
+}
 
  .btn {
     background: #11CDD4;
